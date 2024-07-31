@@ -471,7 +471,7 @@ strong {
   HERO              
 -----------------------------------------*/
 .hero {
-  /* background: var(--secondary-color); */
+  background: var(--secondary-color);
   /* background-color: rgb(77, 32, 32); */
   /* background: linear-gradient(red, black); */
   /* background-color: green; */
