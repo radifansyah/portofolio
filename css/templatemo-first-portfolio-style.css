@@ -1156,6 +1156,7 @@ strong {
     text-align: center !important;
   }.text {
     text-align: center;
+    /* padding: 10px; */
   }
 }
 
