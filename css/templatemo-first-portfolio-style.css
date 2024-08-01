@@ -1158,6 +1158,9 @@ strong {
     text-align: center;
     
   }
+  .hero-title {
+    font-size: 30px;
+  }
 }
 
 @media screen and (max-width: 480px) {
@@ -1185,8 +1188,8 @@ strong {
 
   .custom-btn,
   .navbar .custom-btn {
-    font-size: 18px;
-    padding: 10px 12px;
+    font-size: 13px;
+    padding: 6px 12px;
   }
 
   .navbar-icon {
