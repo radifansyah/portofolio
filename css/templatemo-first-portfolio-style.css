@@ -1164,7 +1164,12 @@ strong {
   h1 {
     font-size: 40px;
   }
-
+  .center {
+    text-align: center !important;
+    padding: 10px 20px;
+  }.text {
+    text-align: center;
+  }
   h2 {
     font-size: 28px;
   }
