@@ -1154,8 +1154,10 @@ strong {
     margin-left: 12px;
   }.center {
     text-align: center !important;
+    font-size: 9px;
   }.text {
     text-align: center;
+    font-size: 9px;
     
   }
 }
